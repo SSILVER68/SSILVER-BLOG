@@ -2,4 +2,4 @@
 
 Welcome to my blog
 
-![SSILVER-BLOG](http://ssilver-blog.azurewebsites.net/)
+[SSILVER-BLOG](http://ssilver-blog.azurewebsites.net/)
